@@ -1,1 +1,1 @@
-# Insurance_premium_prediction_-with_INTERACTIVE_WIDGETS
+# Insurance premium prediction model with interactive widgets
